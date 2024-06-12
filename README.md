@@ -1,2 +1,2 @@
 # animated-octo-funicular
-tots test-components.
+test-components.
